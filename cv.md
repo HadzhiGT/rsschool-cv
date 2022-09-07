@@ -14,6 +14,7 @@ I am 23 years old, I want to learn programming, gain experience and create my ow
 At the moment I work in the pension fund management as a leading specialist.
 Progress in the world is moving at a tremendous speed, and if you stand still, you will degrade.
 Among my qualities I will single out stress resistance and readiness to go to the end.
+> If you have a dream, you are already better and more successful than many people!
 
 ## Skills:
 * __HTML/CSS basics__
